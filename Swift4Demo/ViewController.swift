@@ -13,7 +13,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Hello World!")
-        print("This is sub branch")
     }
 
     override func didReceiveMemoryWarning() {
